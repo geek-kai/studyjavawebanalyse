@@ -1,0 +1,36 @@
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+/target/
+.classpath
+/.settings/
+<<<<<<< HEAD
+.project
+.DS_Store
+*generatorConfig.xml
+target
+ree.txt
+tree.txt
+*.log
+=======
+.project
+>>>>>>> 550fbd4acd1913e753eaa1a4efa048c15c30702f
